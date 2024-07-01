@@ -21,8 +21,8 @@ A Discord bot that integrates with the Canvas Learning Management System to fetc
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/nazk-1/CanvBot.git
+    cd CanvBot
     ```
 
 2. Install the required Python packages:
